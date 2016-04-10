@@ -7,7 +7,7 @@ This python package reads the  latest posts from [geeksforggeks](http://geeksfor
 * Install python2.7
 * Install python-qt4
 * Install BeautifulSoup4
-* Install webbrower
+* Install webbrowser
 
 ### How to run GEEKGEEK ?
 To setup database run,
