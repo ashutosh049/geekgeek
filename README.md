@@ -1,6 +1,6 @@
 # GEEKGEEK
 
-This python package reads the  latest posts from [geeksforggeks](http://geeksforgeeks.com) and [careercup](https://careercup.com/page) and shows user in a UI
+This python package reads the  latest posts from [geeksforggeks](http://www.geeksforgeeks.org/) and [careercup](https://careercup.com/page) and shows user in a UI
 
 >*Setup*
 >This version has support for ubuntu
